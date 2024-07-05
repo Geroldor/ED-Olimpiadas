@@ -1,0 +1,5 @@
+r 1 12 12 1 1 preto branco
+c 2 13 2 2 azul amarelo
+l 3 15 4 5 8 verde
+ts times-new-roman 10 bold
+t 4 14 3 texto

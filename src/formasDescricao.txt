@@ -1,0 +1,4 @@
+Retangulo = 1
+Circulo = 2
+Linha = 3
+Texto = 4
